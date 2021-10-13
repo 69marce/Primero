@@ -1,2 +1,4 @@
 esto es un ejemplo
 cambios efectuados
+https://TOKEN@github.com/USUARIO-QUE-CREO-EL-REPOSITORIO/NOMBRE-DEL-PROYECTO.git
+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
